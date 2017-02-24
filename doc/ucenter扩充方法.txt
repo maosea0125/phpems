@@ -1,0 +1,3 @@
+更换源程序中的app/user/app.php文件为plugin文件中的app.php
+复制plugin中的api目录到源程序根目录
+配置api/config.inc.php
